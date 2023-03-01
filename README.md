@@ -1,2 +1,4 @@
 # Google-Merchandise-Store-Analysis
-Utilize Google Studio (Looker Studio) to analyze the Google Merchandise Store (Sample Google Analytics) data.
+
+Analyze the Google Merchandise Store (Sample Google Analytics) data by Google Studio (Looker Studio) .
+
