@@ -99,3 +99,5 @@ Prepared a funnel overview with 5 parts - Acquisition, Activation, Retention, Re
     a. What is the number of sessions and Bounce rate for the referral users?
 
     b. Number of sessions for each referral.
+    
+* Funnel Visualization
